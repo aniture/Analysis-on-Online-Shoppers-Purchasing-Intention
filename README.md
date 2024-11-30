@@ -112,7 +112,3 @@ The primary objective of this project was to explore the relationships between v
 ## Contributors
 - **Shaktisharan Rajure**: Data preprocessing, modeling, and evaluation.
 - **Aditya Niture**: Exploratory data analysis, visualizations, and insights.
-
----
-
-Feel free to customize this content further to fit your repository or project needs. Let me know if you need assistance setting up the repository or requirements file!
