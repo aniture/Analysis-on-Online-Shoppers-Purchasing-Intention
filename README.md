@@ -1,7 +1,3 @@
-Here’s a comprehensive README file content for your project:
-
----
-
 # Online Shoppers Purchasing Intention Analysis
 
 This project focuses on analyzing and predicting purchasing intentions of online shoppers using machine learning and data analysis techniques. The dataset was sourced from the UCI Machine Learning Repository, and the goal was to identify key factors influencing purchasing behavior and develop predictive models for actionable insights.
